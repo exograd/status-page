@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://status.eventline.com</id>
+    <title>Eventline Status</title>
+    <updated>2020-12-14T11:16:07.376Z</updated>
+    <generator>Statusfy</generator>
+    <link rel="alternate" href="https://status.eventline.com"/>
+    <link rel="self" href="https://status.eventline.com/feeds/incidents.en.atom"/>
+    <subtitle>bla bla</subtitle>
+</feed>

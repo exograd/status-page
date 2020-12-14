@@ -30,5 +30,7 @@ jobs:
         env:
           SSH_AUTH_SOCK: "/tmp/ssh_agent.sock"
         run: |
+          git config --global user.email "evbot@eventline.net"
+          git config --global user.name "evbot"
           git remote set-url origin git@github.com:exograd/status-page.git
           npm run deploy

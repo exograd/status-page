@@ -1,0 +1,23 @@
+name: "Deploy"
+on:
+  - push:
+      branch:
+        - "master"
+jobs:
+  deploy:
+    name: "Deploy GH page"
+    runs-on: "ubuntu-20.04"
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: "14"
+      - name: "Installing project dependecies"
+        run: |
+          npm ci
+      - name: "Generating static website"
+        run: |
+          npm run generate
+      - name: "Update github page"
+        run: |
+          npm run deploy

@@ -33,4 +33,5 @@ jobs:
           git config --global user.email "evbot@eventline.net"
           git config --global user.name "evbot"
           git remote set-url origin git@github.com:exograd/status-page.git
+          echo "status.eventline.net" > dist/CNAME
           npm run deploy

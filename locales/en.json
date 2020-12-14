@@ -1,0 +1,24 @@
+{
+  "title": "Eventline Status",
+  "description": "",
+  "systems": {
+    "items": {
+      "authentication": {
+        "title": "Authentication",
+        "description": "Core service used to manage all aspects of user identity."
+      },
+      "api": {
+        "title": "API",
+        "description": ""
+      },
+      "pipeline": {
+        "title": "Pipeline",
+        "description": "Scheduling and running of pipelines"
+      },
+      "webapp": {
+        "title": "Web App",
+        "description": ""
+      }
+    }
+  }
+}

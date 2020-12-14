@@ -1,0 +1,24 @@
+title: "Eventline Status"
+name: "eventline-status"
+description: "bla bla"
+defaultLocale: "en"
+locales:
+  - code: "en"
+    iso: "en-US"
+    name: "English"
+    file: "en.json"
+content:
+  frontMatterFormat: "yaml"
+  systems:
+    - "authentication"
+    - "api"
+    - "pipeline"
+    - "webapp"
+theme:
+  links:
+    en:
+      contact: "https://www.eventline.com/contact"
+      support: "https://www.eventline.com/support"
+      home: "https://www.eventline.com"
+      privacy: "https://www.eventline.com/privacy"
+      legal: "https://www.eventline.com/legal"

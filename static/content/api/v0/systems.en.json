@@ -1,1 +1,1 @@
-[{"name":"authentication","status":"under-maintenance","order":1},{"name":"api","status":"under-maintenance","order":2},{"name":"pipeline","status":"operational","order":3},{"name":"webapp","status":"operational","order":4}]
+[{"name":"authentication","status":"operational","order":1},{"name":"api","status":"operational","order":2},{"name":"pipeline","status":"operational","order":3},{"name":"webapp","status":"operational","order":4}]

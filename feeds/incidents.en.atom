@@ -2,16 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.eventline.net</id>
     <title>Eventline Status</title>
-    <updated>2020-12-14T13:48:15.755Z</updated>
+    <updated>2020-12-14T13:55:02.648Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.eventline.net"/>
     <link rel="self" href="https://status.eventline.net/feeds/incidents.en.atom"/>
-    <entry>
-        <title type="html"><![CDATA[test]]></title>
-        <id>https://status.eventline.net/incidents/0e9e5ce8</id>
-        <link href="https://status.eventline.net/incidents/0e9e5ce8"/>
-        <updated>2020-12-14T13:47:12.650Z</updated>
-        <content type="html"><![CDATA[<!--- language code: en -->
-]]></content>
-    </entry>
 </feed>

@@ -1,7 +1,7 @@
 title: "Eventline Status"
 name: "eventline-status"
-baseUrl: "https://status.eventline.com"
-description: "bla bla"
+baseUrl: "https://status.eventline.net"
+description: ""
 defaultLocale: "en"
 locales:
   - code: "en"
